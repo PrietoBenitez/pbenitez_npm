@@ -1,0 +1,24 @@
+{
+  "name": "pbenitez_npm",
+  "version": "1.0.0",
+  "description": "Pbenitez npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrietoBenitez/pbenitez_npm.git"
+  },
+  "keywords": [],
+  "author": "Pedro Benitez <pedrocarbbini90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrietoBenitez/pbenitez_npm/issues"
+  },
+  "homepage": "https://github.com/PrietoBenitez/pbenitez_npm#readme",
+  "bin" : {
+    "pbenitez_npm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
